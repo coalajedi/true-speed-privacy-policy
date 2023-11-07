@@ -36,7 +36,7 @@ Com seu consentimento.
 
 Para cumprir requisitos legais, como uma ordem judicial ou solicitação governamental.
 
-Segurança
+## Segurança
 
 Valorizamos a segurança das suas informações pessoais e adotamos práticas de proteção para prevenir acessos não autorizados, alterações, divulgações ou destruições não autorizadas.
 
