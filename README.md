@@ -6,6 +6,10 @@ Esta Política de Privacidade descreve como True Speed coleta, usa e compartilha
 
 Podemos coletar as seguintes informações pessoais:
 
+Localização em primeiro plano: Quando você está ativamente utilizando o aplicativo, podemos coletar informações de localização para fornecer serviços baseados em localização, como sua localização precisa e sua velocidade em tempo real.
+
+Localização em segundo plano: Mesmo quando o aplicativo não está em uso ativo, podemos coletar informações de localização para melhorar a experiência do usuário, fornecer notificações personalizadas ou realizar análises para aprimorar nossos serviços.
+
 Informações de registro: quando você utiliza o aplicativo, podemos coletar informações de registro como o seu nome, endereço de e-mail, e informações de conta.
 
 Informações de uso: podemos coletar informações sobre como você utiliza o aplicativo, como as páginas visitadas, o tempo gasto em cada página e outras estatísticas.
